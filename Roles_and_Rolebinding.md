@@ -8,7 +8,7 @@
  - **How does one access a Kubernetes Cluster ?**  
 *Kubernetes Cluster can be accessed by a resource who has the config file in place for the kubectl to use in managing or performing actions on a cluster based on roles assigned to the user*.  
 **What is a Role?**  
-*In IT there are will be a number of SMEs who handles the application on day-to-day basis and not everyone is allowed to access all the available access on an Application.*  
+*A role is a collection of permissions and in IT there are will be a number of SMEs who handles the application on day-to-day basis and not everyone is allowed to access all the available access on an Application.*  
 Example:   
 	  1. *A DB Administrator will have Read,Write,Execute,Delete* Permissions.   
 	  2. *A DB Developer will have Read,Write,Execute permissions but not delete.*  
